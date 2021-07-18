@@ -1,0 +1,15 @@
+
+.simpson name {
+
+   margin: 100px;
+}
+.simpson info {
+   align-items: center;
+   text-align: left;
+}
+.simpson img{
+}
+.simpson {
+   width: 100%;
+   display: flex;
+}
